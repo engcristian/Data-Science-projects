@@ -32,7 +32,7 @@ Directory | Description
 [Diabetes_prediction](https://github.com/engcristian/Data-Science-projects/tree/main/Diabetes_prediction)| A tool to predict if a person is diabetic or not.
 [Housing_prices](https://github.com/engcristian/Data-Science-projects/tree/main/Housing_prices)| Analysing with differents models the houses' price prediction. 
 [Mar_tubular](https://github.com/engcristian/Data-Science-projects/tree/main/Mar_tubular)| A competition notebook from Kaggle about a mar tubular playground.
-[Rock_x_mines](https://github.com/engcristian/Data-Science-projects/tree/main/Rock_x_mines)| A tool to predict if it's a rock or a mine by sonar. 
+[Rock_x_mines](https://github.com/engcristian/Data-Science-projects/tree/main/rock_x_mines)| A tool to predict if it's a rock or a mine by sonar. 
 
 <h2>
   <a name="project">Projects </a> 
